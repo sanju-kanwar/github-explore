@@ -34,7 +34,7 @@ This React app allows users to search GitHub usernames and explore their public 
 ## Run Locally
 
 ```bash
-git clone https://github.com/sanju-kanwar/github-explorer.git
+git clone https://github.com/sanju-kanwar/github-explore.git
 cd github-explorer
 npm install
 npm run dev
